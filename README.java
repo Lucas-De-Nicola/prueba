@@ -1,2 +1,3 @@
 # prueba
-private int numero;
+private int numero = 2;
+private String lucas;
