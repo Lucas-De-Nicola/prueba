@@ -1,1 +1,2 @@
 # prueba
+private int numero;
